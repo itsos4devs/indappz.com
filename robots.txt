@@ -1,0 +1,24 @@
+
+User-agent: *
+Disallow: /cfa-exam-ghvh
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://indappz.com/cfa-exam-ghvh/sitemap.xml
+
+User-agent: *
+Disallow: /christmas-recipes-nigcbt
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://indappz.com/christmas-recipes-nigcbt/sitemap.xml
+
+User-agent: *
+Disallow: /journey-send-yhor
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://indappz.com/journey-send-yhor/sitemap.xml
